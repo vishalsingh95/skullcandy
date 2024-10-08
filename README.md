@@ -1,2 +1,2 @@
 # skullcandy
-first react project
+first Angular project
